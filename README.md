@@ -2,7 +2,7 @@
 This is a repo for data of fantasy tennis with friends
 | Torneo                 | Note |
 |------------------------|------|
-| 4 gennaio - Adelaide (250 pts)           |      |
+| 4 gennaio - Adelaide (250 pts)           | Gaetano (1)     |
 | 12 gennaio - Australian Open (2000 pts)  |      |
 | 27 gennaio - Montpellier (250 pts)       |      |
 | 3 febbraio - Rotterdam (500 pts)         |      |
