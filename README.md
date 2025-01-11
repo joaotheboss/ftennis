@@ -1,6 +1,7 @@
 # ftennis
 This is a repo for data of fantasy tennis with friends
-| Torneo                 | Note |
+This is the 2025 Hall of Fame
+| Torneo                 | Vincitore |
 |------------------------|------|
 | 4 gennaio - Adelaide (250 pts)           | Gaetano (1)     |
 | 12 gennaio - Australian Open (2000 pts)  |      |
@@ -34,3 +35,16 @@ This is a repo for data of fantasy tennis with friends
 | 20 ottobre - Basilea (500 pts)           |      |
 | 20 ottobre - Vienna (500 pts)            |      |
 | 27 ottobre - Parigi Bercy (1000 pts)     |      |
+
+This is kinda ATP points race
+| Posizione            | Nome       | Punti      |
+|-----------------------|-----------------|-----------------|
+| 1   |Gaetano  |250  |
+| 2    |Mirko  |214  |
+| 3    |Francesco  |178  |
+| 4    |Ilario  |142  |
+| 5    |Domenico  |107  |
+| 6    |Mattia  |71  |
+| 7    |Daniele  |35  |
+
+
