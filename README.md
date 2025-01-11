@@ -41,7 +41,7 @@ This is kinda ATP points race
 |-----------------------|-----------------|-----------------|
 | 1   |Gaetano  |250  |
 | 2    |Mirko  |214  |
-| 3    |Francesco  |178  |
+| 3    |Francesco  |214  |
 | 4    |Ilario  |142  |
 | 5    |Domenico  |107  |
 | 6    |Mattia  |71  |
