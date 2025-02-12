@@ -6,7 +6,7 @@ This is the 2025 Hall of Fame
 | 4 gennaio - Adelaide (250 pts)           | Gaetano (1)     |
 | 12 gennaio - Australian Open (2000 pts)  |  Francesco (1)    |
 | 27 gennaio - Montpellier (250 pts)       |   Ilario (1)   |
-| 3 febbraio - Rotterdam (500 pts)         |      |
+| 3 febbraio - Rotterdam (500 pts)         |   Ilario (2)   |
 | 17 febbraio - Rio de Janeiro (500 pts)   |      |
 | 24 febbraio - Acapulco (500 pts)         |      |
 | 5 marzo - Indian Wells (1000 pts)        |      |
@@ -39,13 +39,13 @@ This is the 2025 Hall of Fame
 This is kinda ATP points race
 | Posizione            | Nome       | Punti      |
 |-----------------------|-----------------|-----------------|
-| 1    |Francesco  |2356  |
-| 2    |Mattia  |1999  |
-| 3   |Gaetano  |1856  |
-| 4    |Mirko  |1427  |
-| 5    |Ilario  |963  |
-| 6    |Daniele  |927  |
-| 7    |Domenico  |499  |
+| 1    |Francesco  |2463  |
+| 2    |Mattia  |2034  |
+| 2   |Gaetano  |2034  |
+| 4    |Mirko  |1641  |
+| 5    |Ilario  |1213  |
+| 6    |Daniele  |1069  |
+| 7    |Domenico  |570  |
 
 
 
