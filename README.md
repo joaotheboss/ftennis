@@ -13,9 +13,9 @@ This is the 2025 Hall of Fame
 | 19 marzo - Miami (1000 pts)              |    Daniele (2)  |
 | 6 aprile - Montecarlo (1000 pts)         |      |
 | 14 aprile - Barcellona (500 pts)         |      |
-| 14 aprile - Monaco (500 pts)             |      |
 | 23 aprile - Madrid (1000 pts)            |      |
 | 7 maggio - Roma (1000 pts)               |      |
+| 18 maggio - Amburgo (500 pts)             |      |
 | 25 maggio - Roland Garros (2000 pts)     |      |
 | 9 giugno - 's-Hertogenbosch (250 pts)    |      |
 | 9 giugno - Stoccarda (250 pts)           |      |
