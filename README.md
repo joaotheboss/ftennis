@@ -1,4 +1,5 @@
 # ftennis
+At the end on the app 187 points will be added to Gaetano's ranking.
 This is a repo for data of fantasy tennis with friends
 This is the 2025 Hall of Fame
 | Torneo                 | Vincitore |
