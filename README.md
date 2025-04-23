@@ -1,5 +1,6 @@
 # ftennis
- The following table is the ranking (smash-it points).
+<p>This is a repo for data of fantasy tennis with friends</p>
+The following table is the ranking (smash-it points).
 | Posizione | Giocatore   | Punti   |
 |-----------|-------------|---------|
 | 1         | Mirko       | 3812.9  |
@@ -11,7 +12,7 @@
 | 7         | Domenico    | 2860.0  |
 
 
-This is a repo for data of fantasy tennis with friends
+
 This is the 2025 Hall of Fame
 | Torneo                 | Vincitore |
 |------------------------|------|
