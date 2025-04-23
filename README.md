@@ -1,5 +1,16 @@
 # ftennis
-At the end on the app 187 points will be added to Gaetano's ranking.
+At the end on the app 149,7 points will be added to Gaetano's ranking.
+ The following table is the ranking
+<b>| Posizione |Giocatore                 | Punti |</b>
+|------|--------|-----|
+| 1| Mirko | 3812.9|
+| 2| Daniele | 3563,6|
+| 3| Francesco | 3487,2|
+|4| Ilario | 3463,7|
+|5|  Gaetano | 3278,8|
+|6| Mattia| 3124,7|
+|7| Domenico | 2860,0
+
 This is a repo for data of fantasy tennis with friends
 This is the 2025 Hall of Fame
 | Torneo                 | Vincitore |
