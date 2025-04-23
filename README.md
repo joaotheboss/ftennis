@@ -2,7 +2,7 @@
 <p>This is a repo for data of fantasy tennis with friends</p>
 The following table is the ranking (smash-it points).
 | Posizione | Giocatore   | Punti   |
-|-----------|-------------|---------|
+|:-----------:|:-------------:|:---------:|
 | 1         | Mirko       | 3812.9  |
 | 2         | Daniele     | 3563.6  |
 | 3         | Francesco   | 3487.2  |
