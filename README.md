@@ -1,6 +1,5 @@
 # ftennis
-At the end on the app 149,7 points will be added to Gaetano's ranking.
- The following table is the ranking
+ The following table is the ranking (smash-it points).
 | Posizione | Giocatore   | Punti   |
 |-----------|-------------|---------|
 | 1         | Mirko       | 3812.9  |
