@@ -4,13 +4,13 @@ The following table is the ranking (smash-it points).
 
 | Posizione            | Nome       | Punti      |
 |-----------------------|-----------------|-----------------|
-| 1    |Mirko  |5031 |
-| 2    |Ilario  |4816.3 |
-| 3    |Daniele  |4702   |
-| 4  |Gaetano  |4627.7 |
-| 5   |Francesco  |4471.8  |
-| 6    |Domenico  |4049.7|  
-| 7    |Mattia  |3996.1 |
+| 1    |Mirko  |5584.8|
+| 2    |Daniele  |5307.1 |
+| 3    |Gaetano  |5070.4 |
+| 4  |Ilario  |5050|
+| 5   |Francesco  |4850.9|
+| 6    |Mattia  |4359.4|
+| 7    |Domenico  |4224.2|  
 
 
 
@@ -31,7 +31,7 @@ This is the 2025 Hall of Fame
 | 23 aprile - Madrid (1000 pts)            |   Gaetano (2)   |
 | 7 maggio - Roma (1000 pts)               |   Gaetano (3)   |
 | 18 maggio - Amburgo (500 pts)             |   Ilario (4)   |
-| 25 maggio - Roland Garros (2000 pts)     |      |
+| 25 maggio - Roland Garros (2000 pts)     |   Daniele (3)   |
 | 9 giugno - 's-Hertogenbosch (250 pts)    |      |
 | 9 giugno - Stoccarda (250 pts)           |      |
 | 16 giugno - Halle (500 pts)              |      |
@@ -54,13 +54,13 @@ This is the 2025 Hall of Fame
 This is kinda ATP points race 
 | Posizione            | Nome       | Punti      |
 |-----------------------|-----------------|-----------------|
-| 1    |Francesco  |6461  |
-| 2    |Daniele  |5853.42  |
-| 3  |Mirko  |5567.42  |
-| 4    |Mattia  |5460  |
-| 5   |Ilario  |4996.42  |
-| 6      |Gaetano  |4886.85 |
-| 7    |Domenico  |3780.85  |
+| 1    |Daniele  |7853.42 |
+| 2    |Francesco  |7603.85 |
+| 3  |Mirko  |7281.70|
+| 4    |Mattia  |6317.14 |
+| 5    |Gaetano  |6315.42 |
+| 6     |Ilario  |5567.84 |
+| 7    |Domenico  |4066.56 |
 
 
 
