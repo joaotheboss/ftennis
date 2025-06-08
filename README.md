@@ -4,13 +4,13 @@ The following table is the ranking (smash-it points).
 
 | Posizione            | Nome       | Punti      |
 |-----------------------|-----------------|-----------------|
-| 1    |Mirko  |5584.8|
-| 2    |Daniele  |5307.1 |
+| 1    |Mirko  |5584.7|
+| 2    |Daniele  |5307.0 |
 | 3    |Gaetano  |5070.4 |
 | 4  |Ilario  |5050|
 | 5   |Francesco  |4850.9|
-| 6    |Mattia  |4359.4|
-| 7    |Domenico  |4224.2|  
+| 6    |Mattia  |4359.3|
+| 7    |Domenico  |4224.3|  
 
 
 
