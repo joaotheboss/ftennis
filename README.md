@@ -36,7 +36,7 @@ This is the 2025 Hall of Fame
 | 9 giugno - Stoccarda (250 pts)           |   Gaetano (4)   |
 | 16 giugno - Halle (500 pts)              |   Domenico (1)   |
 | 16 giugno - Queen's (500 pts)            |   Mattia (3)   |
-| 30 giugno - Wimbledon (2000 pts)         |      |
+| 30 giugno - Wimbledon (2000 pts)         |   Gaetano (5)   |
 | 14 luglio - Gstaad (250 pts)             |      |
 | 20 luglio - Umago (250 pts)              |      |
 | 26 luglio - Toronto (1000 pts)           |      |
@@ -54,13 +54,13 @@ This is the 2025 Hall of Fame
 This is kinda ATP points race 
 | Posizione            | Nome       | Punti      |
 |-----------------------|-----------------|-----------------|
-| 1    |Daniele  |9031.98|
-| 2    |Francesco  |8210.98|
-| 3  |Mirko  |7960.27|
-| 4    |Gaetano  |7136.84|
-| 5    |Mattia  |7031.41|
-| 6     |Ilario  |6639.26|
-| 7    |Domenico  |4995.12|
+| 1    |Daniele  |10746.26|
+| 2    |Francesco  |9353.83|
+| 3  |Gaetano  |9136.84||
+| 4    |Mirko  |8531.69
+| 5    |Mattia  |8459.98|
+| 6     |Ilario  |7496.40|
+| 7    |Domenico  |5280.83|
 
 
 
