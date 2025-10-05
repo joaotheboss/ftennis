@@ -37,13 +37,13 @@ This is the 2025 Hall of Fame
 | 16 giugno - Halle (500 pts)              |   Domenico (1)   |
 | 16 giugno - Queen's (500 pts)            |   Mattia (3)   |
 | 30 giugno - Wimbledon (2000 pts)         |   Gaetano (5)   |
-| 14 luglio - Gstaad (250 pts)             |      |
-| 20 luglio - Umago (250 pts)              |      |
-| 26 luglio - Toronto (1000 pts)           |      |
-| 5 agosto - Cincinnati (1000 pts)         |      |
-| 25 agosto - US Open (2000 pts)           |      |
-| 24 settembre - Pechino (500 pts)         |      |
-| 24 settembre - Tokyo (500 pts)           |      |
+| 14 luglio - Gstaad (250 pts)             |   Domenico (2)   |
+| 21 luglio - Washington (500 pts)              |   Daniele (5)   |
+| 26 luglio - Toronto (1000 pts)           |   Mattia (4)   |
+| 5 agosto - Cincinnati (1000 pts)         |   Gaetano (6)   |
+| 25 agosto - US Open (2000 pts)           |   Gaetano (7)   |
+| 24 settembre - Pechino (500 pts)         |   Gaetano (8)   |
+| 24 settembre - Tokyo (500 pts)           |   Daniele (6)   |
 | 1 ottobre - Shanghai (1000 pts)          |      |
 | 13 ottobre - Anversa (250 pts)           |      |
 | 13 ottobre - Stoccolma (250 pts)         |      |
