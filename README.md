@@ -45,8 +45,8 @@ This is the 2025 Hall of Fame
 | 24 settembre - Pechino (500 pts)         |   Gaetano (8)   |
 | 24 settembre - Tokyo (500 pts)           |   Daniele (6)   |
 | 1 ottobre - Shanghai (1000 pts)          |    Mattia (5)  |
-| 13 ottobre - Brussels (250 pts)           |      |
-| 13 ottobre - Stoccolma (250 pts)         |      |
+| 13 ottobre - Brussels (250 pts)           |   Daniele (7)   |
+| 13 ottobre - Stoccolma (250 pts)         |   Daniele (8)   |
 | 20 ottobre - Basilea (500 pts)           |      |
 | 20 ottobre - Vienna (500 pts)            |      |
 | 27 ottobre - Parigi Bercy (1000 pts)     |      |
