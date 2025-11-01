@@ -51,16 +51,6 @@ This is the 2025 Hall of Fame
 | 20 ottobre - Vienna (500 pts)            |   Gaetano (9)   |
 | 27 ottobre - Parigi Bercy (1000 pts)     |      |
 
-This is kinda ATP points race 
-| Posizione            | Nome       | Punti      |
-|-----------------------|-----------------|-----------------|
-| 1    |Daniele  |10746.26|
-| 2    |Francesco  |9353.83|
-| 3  |Gaetano  |9136.84||
-| 4    |Mirko  |8531.69
-| 5    |Mattia  |8459.98|
-| 6     |Ilario  |7496.40|
-| 7    |Domenico  |5280.83|
 
 
 
