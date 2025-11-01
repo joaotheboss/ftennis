@@ -47,8 +47,8 @@ This is the 2025 Hall of Fame
 | 1 ottobre - Shanghai (1000 pts)          |    Mattia (5)  |
 | 13 ottobre - Brussels (250 pts)           |   Daniele (7)   |
 | 13 ottobre - Stoccolma (250 pts)         |   Daniele (8)   |
-| 20 ottobre - Basilea (500 pts)           |      |
-| 20 ottobre - Vienna (500 pts)            |      |
+| 20 ottobre - Basilea (500 pts)           |   Domenico (3)   |
+| 20 ottobre - Vienna (500 pts)            |   Gaetano (9)   |
 | 27 ottobre - Parigi Bercy (1000 pts)     |      |
 
 This is kinda ATP points race 
