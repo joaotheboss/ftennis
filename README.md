@@ -1,21 +1,16 @@
 # ftennis
-<p>This is a repo for data of fantasy tennis with friends</p>
-The following table is the ranking (smash-it points).
-
+STAGIONE 2025
 | Posizione            | Nome       | Punti      |
 |-----------------------|-----------------|-----------------|
-| 1    |Daniele  |7177.4|
-| 2    |Gaetano  |6852.2| 
-| 3    |Mirko  |6796.7| 
-| 4  |Ilario  |6581.2| 
-| 5   |Francesco  |6196.2| 
-| 6    |Mattia  |5883.5| 
-| 7    |Domenico  |5449| 
+| 1    |Gaetano  |12444.1|
+| 2    |Daniele  |12231.7| 
+| 3    |Francesco  |11582.2| 
+| 4  |Mattia  |11051.2| 
+| 5  |Mirko  | 11002.5| 
+| 6    |Ilario  |10472.3| 
+| 7    |Domenico  |9167.2| 
 
-
-
-
-This is the 2025 Hall of Fame
+Hall of Fame
 | Torneo                 | Vincitore |
 |------------------------|------|
 | 4 gennaio - Adelaide (250 pts)           | Gaetano (1)     |
@@ -49,7 +44,7 @@ This is the 2025 Hall of Fame
 | 13 ottobre - Stoccolma (250 pts)         |   Daniele (8)   |
 | 20 ottobre - Basilea (500 pts)           |   Domenico (3)   |
 | 20 ottobre - Vienna (500 pts)            |   Gaetano (9)   |
-| 27 ottobre - Parigi Bercy (1000 pts)     |      |
+| 27 ottobre - Parigi Bercy (1000 pts)     |   Mattia (6)   |
 
 
 
