@@ -1,14 +1,14 @@
 # ftennis
-STAGIONE 2025
+STAGIONE 2026
   | Posizione            | Nome       | Punti      |
   |-----------------------|-----------------|-----------------|
-  | 1    |Gaetano  |12444.1|
-  | 2    |Daniele  |12231.7| 
-  | 3    |Francesco  |11582.2| 
-  | 4  |Mattia  |11051.2| 
-  | 5  |Mirko  | 11002.5| 
-  | 6    |Ilario  |10472.3| 
-  | 7    |Domenico  |9167.2| 
+  | 1    |Gaetano  |0|
+  | 2    |Daniele  |0| 
+  | 3    |Francesco  |0| 
+  | 4  |Mattia  |0| 
+  | 5  |Mirko  |0| 
+  | 6    |Diana  |0| 
+  | 7    |Domenico  |0| 
   
   Hall of Fame
   | Torneo                 | Vincitore 2025 | Vincitore 2026 |
@@ -46,7 +46,16 @@ STAGIONE 2025
   |  Vienna (500 pts)            |   Gaetano (9)   ||
   |  Parigi Bercy (1000 pts)     |   Mattia (6)   ||
 
-
+STAGIONE 2025
+  | Posizione            | Nome       | Punti      |
+  |-----------------------|-----------------|-----------------|
+  | 1    |Gaetano  |12444.1|
+  | 2    |Daniele  |12231.7| 
+  | 3    |Francesco  |11582.2| 
+  | 4  |Mattia  |11051.2| 
+  | 5  |Mirko  | 11002.5| 
+  | 6    |Ilario  |10472.3| 
+  | 7    |Domenico  |9167.2| 
 
 
 
