@@ -9,7 +9,18 @@ STAGIONE 2026
   | 5  |Mirko  |0| 
   | 6    |Diana  |0| 
   | 7    |Domenico  |0| 
-  
+
+  PUPILLI
+    | Partecipante            | Periodo 1       | Periodo 2      | Periodo 3      | Periodo 4      |
+  |-----------------------|-----------------|-----------------|-----------------|-----------------|
+ |Gaetano  |Tien||||
+|Daniele  |Norrie|||| 
+|Francesco  |Rinderknech|||| 
+ |Mattia  |Fonseca|||| 
+|Mirko  |Tsitsipas|||| 
+ |Diana  |Nakashima|||| 
+  |Domenico  |Sonego|||| 
+
   Hall of Fame
   | Torneo                 | Vincitore 2025 | Vincitore 2026 | Controllore |
   |------------------------|------|------|------|
