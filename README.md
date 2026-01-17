@@ -24,7 +24,7 @@ STAGIONE 2026
   Hall of Fame
   | Torneo                 | Vincitore 2025 | Vincitore 2026 | Controllore |
   |------------------------|------|------|------|
-  | Adelaide (250 pts)           | Gaetano (1)     ||Gaetano|
+  | Adelaide (250 pts)           | Gaetano (1)     |Daniele (1)|Gaetano|
   | Australian Open (2000 pts)  |  Francesco (1)    ||Daniele|
   |Montpellier (250 pts)       |   Ilario (1)   ||Francesco|
   | Rotterdam (500 pts)         |   Ilario (2)   ||Mattia|
