@@ -2,13 +2,13 @@
 STAGIONE 2026
   | Posizione            | Nome       | Punti      |
   |-----------------------|-----------------|-----------------|
-  | 1    |Gaetano  |0|
-  | 2    |Daniele  |0| 
-  | 3    |Francesco  |0| 
-  | 4  |Mattia  |0| 
-  | 5  |Mirko  |0| 
-  | 6    |Diana  |0| 
-  | 7    |Domenico  |0| 
+  | 1    |Daniele  |473.7|
+  | 2     |Gaetano  |444.3|
+  | 3    |Francesco  |444.3| 
+  | 4  |Mattia  |389.4| 
+  | 5  |Diana  |336.1|  
+  | 6   |Domenico  |332.2| 
+  | 7     |Mirko  |166.7|
 
   PUPILLI
     | Partecipante            | Periodo 1       | Periodo 2      | Periodo 3      | Periodo 4      |
