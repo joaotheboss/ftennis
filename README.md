@@ -2,13 +2,13 @@
 STAGIONE 2026
   | Posizione            | Nome       | Punti      |
   |-----------------------|-----------------|-----------------|
-  | 1    |Daniele  |473.7|
-  | 2     |Gaetano  |444.3|
-  | 3    |Francesco  |444.3| 
-  | 4  |Mattia  |389.4| 
-  | 5  |Diana  |336.1|  
-  | 6   |Domenico  |332.2| 
-  | 7     |Mirko  |166.7|
+  | 1    |Gaetano  |2807|
+  | 2     |Daniele  |2563.8|
+  | 3    |Mattia  |2549.2| 
+  | 4  |Domenico  |2523.8| 
+  | 5  |Mirko  |2345.3|
+  | 6   |Francesco  |2313.4| 
+  | 7   |Diana  |2175.7|  
 
   PUPILLI
     | Partecipante            | Periodo 1       | Periodo 2      | Periodo 3      | Periodo 4      |
@@ -25,12 +25,12 @@ STAGIONE 2026
   | Torneo                 | Vincitore 2025 | Vincitore 2026 | Controllore |
   |------------------------|------|------|------|
   | Adelaide (250 pts)           | Gaetano (1)     |Daniele (1)|Gaetano|
-  | Australian Open (2000 pts)  |  Francesco (1)    ||Daniele|
-  |Montpellier (250 pts)       |   Ilario (1)   ||Francesco|
-  | Rotterdam (500 pts)         |   Ilario (2)   ||Mattia|
-  |  Rio de Janeiro (500 pts)   |  Mattia (1)    ||Mirko|
-  |Acapulco (500 pts)         |    Mirko (1)  ||Domenico|
-  | Indian Wells (1000 pts)        |   Daniele (1)   ||Diana|
+  | Australian Open (2000 pts)  |  Francesco (1)    |Gaetano (1)|Daniele|
+  |Montpellier (250 pts)       |   Ilario (1)   |Mattia (1)|Francesco|
+  | Rotterdam (500 pts)         |   Ilario (2)   |Mattia (2)|Mattia|
+  |  Rio de Janeiro (500 pts)   |  Mattia (1)    |Mirko (1)|Mirko|
+  |Acapulco (500 pts)         |    Mirko (1)  |Mirko (2)|Domenico|
+  | Indian Wells (1000 pts)        |   Daniele (1)   |Domenico (1)|Diana|
   | Miami (1000 pts)              |    Daniele (2)  ||Gaetano|
   | Montecarlo (1000 pts)         |   Ilario (3)   ||Daniele|
   |  Barcellona (500 pts)         |   Mattia (2)   ||Francesco|
