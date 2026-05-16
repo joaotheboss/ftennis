@@ -2,24 +2,24 @@
 STAGIONE 2026
   | Posizione            | Nome       | Punti      |
   |-----------------------|-----------------|-----------------|
-  | 1    |Gaetano  |2807|
-  | 2     |Daniele  |2563.8|
-  | 3    |Mattia  |2549.2| 
-  | 4  |Domenico  |2523.8| 
-  | 5  |Mirko  |2345.3|
-  | 6   |Francesco  |2313.4| 
-  | 7   |Diana  |2175.7|  
+  | 1   |Daniele  |5126.9|
+  | 2      |Gaetano  |5104.5|
+  | 3    |Mattia  |4743.2| 
+  | 4 |Mirko  |4589.1| 
+  | 5  |Domenico  |4511.1| 
+  | 6   |Francesco  |4304.7| 
+  | 7   |Diana  |4298.4|  
 
   PUPILLI
     | Partecipante            | Periodo 1       | Periodo 2      | Periodo 3      | Periodo 4      |
   |-----------------------|-----------------|-----------------|-----------------|-----------------|
- |Gaetano  |Tien||||
-|Daniele  |Norrie|||| 
-|Francesco  |Rinderknech|||| 
- |Mattia  |Fonseca|||| 
-|Mirko  |Tsitsipas|||| 
- |Diana  |Nakashima|||| 
-  |Domenico  |Sonego|||| 
+ |Gaetano  |Tien|Machac|||
+|Daniele  |Norrie|King||| 
+|Francesco  |Rinderknech|Baez||| 
+ |Mattia  |Fonseca|Fonseca||| 
+|Mirko  |Tsitsipas|Etcheverry||| 
+ |Diana  |Nakashima|Fils||| 
+  |Domenico  |Sonego|Jodar||| 
 
   Hall of Fame
   | Torneo                 | Vincitore 2025 | Vincitore 2026 | Controllore |
@@ -31,10 +31,10 @@ STAGIONE 2026
   |  Rio de Janeiro (500 pts)   |  Mattia (1)    |Mirko (1)|Mirko|
   |Acapulco (500 pts)         |    Mirko (1)  |Mirko (2)|Domenico|
   | Indian Wells (1000 pts)        |   Daniele (1)   |Domenico (1)|Diana|
-  | Miami (1000 pts)              |    Daniele (2)  ||Gaetano|
-  | Montecarlo (1000 pts)         |   Ilario (3)   ||Daniele|
-  |  Barcellona (500 pts)         |   Mattia (2)   ||Francesco|
-  |  Madrid (1000 pts)            |   Gaetano (2)   ||Mattia|
+  | Miami (1000 pts)              |    Daniele (2)  |Francesco (1)|Gaetano|
+  | Montecarlo (1000 pts)         |   Ilario (3)   |Mirko (3)|Daniele|
+  |  Barcellona (500 pts)         |   Mattia (2)   |Daniele (2)|Francesco|
+  |  Madrid (1000 pts)            |   Gaetano (2)   |Daniele (3)|Mattia|
   | Roma (1000 pts)               |   Gaetano (3)   ||Mirko|
   | Amburgo (500 pts)             |   Ilario (4)   ||Domenico|
   |  Roland Garros (2000 pts)     |   Daniele (3)   ||Diana|
