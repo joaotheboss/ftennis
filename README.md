@@ -13,13 +13,13 @@ STAGIONE 2026
   PUPILLI
     | Partecipante            | Periodo 1       | Periodo 2      | Periodo 3      | Periodo 4      |
   |-----------------------|-----------------|-----------------|-----------------|-----------------|
- |Gaetano  |Tien|Machac|||
-|Daniele  |Norrie|King||| 
-|Francesco  |Rinderknech|Baez||| 
- |Mattia  |Fonseca|Fonseca||| 
-|Mirko  |Tsitsipas|Etcheverry||| 
- |Diana  |Nakashima|Fils||| 
-  |Domenico  |Sonego|Jodar||| 
+ |Gaetano  |Tien|Machac|Berrettini J||
+|Daniele  |Norrie|King|Humbert|| 
+|Francesco  |Rinderknech|Baez|Berrettini M.|| 
+ |Mattia  |Fonseca|Fonseca|Mensik|| 
+|Mirko  |Tsitsipas|Etcheverry|Arnaldi|| 
+ |Diana  |Nakashima|Fils|Prizmic|| 
+  |Domenico  |Sonego|Jodar|Svajda|| 
 
   Hall of Fame
   | Torneo                 | Vincitore 2025 | Vincitore 2026 | Controllore |
@@ -35,9 +35,9 @@ STAGIONE 2026
   | Montecarlo (1000 pts)         |   Ilario (3)   |Mirko (3)|Daniele|
   |  Barcellona (500 pts)         |   Mattia (2)   |Daniele (2)|Francesco|
   |  Madrid (1000 pts)            |   Gaetano (2)   |Daniele (3)|Mattia|
-  | Roma (1000 pts)               |   Gaetano (3)   ||Mirko|
-  | Amburgo (500 pts)             |   Ilario (4)   ||Domenico|
-  |  Roland Garros (2000 pts)     |   Daniele (3)   ||Diana|
+  | Roma (1000 pts)               |   Gaetano (3)   |Gaetano (2)|Mirko|
+  | Amburgo (500 pts)             |   Ilario (4)   |Daniele (4)|Domenico|
+  |  Roland Garros (2000 pts)     |   Daniele (3)   |Daniele (5)|Diana|
   |'s-Hertogenbosch (250 pts)    |    Daniele (4)  ||Gaetano|
   |  Stoccarda (250 pts)           |   Gaetano (4)   ||Daniele|
   | Halle (500 pts)              |   Domenico (1)   ||Francesco|
