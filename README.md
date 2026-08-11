@@ -38,14 +38,14 @@ STAGIONE 2026
   | Roma (1000 pts)               |   Gaetano (3)   |Gaetano (2)|Mirko|
   | Amburgo (500 pts)             |   Ilario (4)   |Daniele (4)|Domenico|
   |  Roland Garros (2000 pts)     |   Daniele (3)   |Daniele (5)|Diana|
-  |'s-Hertogenbosch (250 pts)    |    Daniele (4)  ||Gaetano|
-  |  Stoccarda (250 pts)           |   Gaetano (4)   ||Daniele|
-  | Halle (500 pts)              |   Domenico (1)   ||Francesco|
-  | Queen's (500 pts)            |   Mattia (3)   ||Mattia|
-  | Wimbledon (2000 pts)         |   Gaetano (5)   ||Mirko|
-  |  Gstaad (250 pts)             |   Domenico (2)   ||Domenico|
-  |  Washington (500 pts)              |   Daniele (5)   ||Diana|
-  | Toronto (1000 pts)           |   Mattia (4)   ||Gaetano|
+  |'s-Hertogenbosch (250 pts)    |    Daniele (4)  |Gaetano (3)|Gaetano|
+  |  Stoccarda (250 pts)           |   Gaetano (4)   |Gaetano (4)|Daniele|
+  | Halle (500 pts)              |   Domenico (1)   |Domenico (2)|Francesco|
+  | Queen's (500 pts)            |   Mattia (3)   |Domenico (3)|Mattia|
+  | Wimbledon (2000 pts)         |   Gaetano (5)   |Daniele (6)|Mirko|
+  |  Gstaad (250 pts)             |   Domenico (2)   |Diana (1)|Domenico|
+  |  Washington (500 pts)              |   Daniele (5)   |Francesco (2)|Diana|
+  | Canada (1000 pts)           |   Mattia (4)   ||Gaetano|
   |  Cincinnati (1000 pts)         |   Gaetano (6)   ||Daniele|
   |  US Open (2000 pts)           |   Gaetano (7)   ||Francesco|
   |  Pechino (500 pts)         |   Gaetano (8)   ||Mattia|
