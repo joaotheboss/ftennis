@@ -2,24 +2,24 @@
 STAGIONE 2026
   | Posizione            | Nome       | Punti      |
   |-----------------------|-----------------|-----------------|
-  | 1   |Daniele  |6253|
-  | 2      |Gaetano  |5820.8|
-  | 3    |Mattia  |5606.1| 
-  | 4 |Mirko  |5409.8| 
-  | 5  |Domenico  |5187.9| 
-  | 6   |Diana  |5017.9| 
-  | 7   |Francesco  |4385.2|  
+  | 1   |Gaetano  |9087.3|
+  | 2      |Daniele  |8715.8|
+  | 3    |Mattia  |8266.4| 
+  | 4 |Domenico  |7924.7| 
+  | 5   |Mirko  |7888.9|
+  | 6   |Diana  |7227.1| 
+  | 7   |Francesco  |6836.6|  
 
   PUPILLI
     | Partecipante            | Periodo 1       | Periodo 2      | Periodo 3      | Periodo 4      |
   |-----------------------|-----------------|-----------------|-----------------|-----------------|
- |Gaetano  |Tien|Machac|Berrettini J||
-|Daniele  |Norrie|King|Humbert|| 
-|Francesco  |Rinderknech|Baez|Berrettini M.|| 
- |Mattia  |Fonseca|Fonseca|Mensik|| 
-|Mirko  |Tsitsipas|Etcheverry|Arnaldi|| 
- |Diana  |Nakashima|Fils|Prizmic|| 
-  |Domenico  |Sonego|Jodar|Svajda|| 
+ |Gaetano  |Tien|Machac|Berrettini J.|Draper|
+|Daniele  |Norrie|King|Humbert|nakashima| 
+|Francesco  |Rinderknech|Baez|Berrettini M.|Berrettini M.| 
+ |Mattia  |Fonseca|Fonseca|Mensik|Fonseca| 
+|Mirko  |Tsitsipas|Etcheverry|Arnaldi|Arnaldi| 
+ |Diana  |Nakashima|Fils|Prizmic|Merida-Aguilar| 
+  |Domenico  |Sonego|Jodar|Svajda|Rune| 
 
   Hall of Fame
   | Torneo                 | Vincitore 2025 | Vincitore 2026 | Controllore |
@@ -45,7 +45,7 @@ STAGIONE 2026
   | Wimbledon (2000 pts)         |   Gaetano (5)   |Daniele (6)|Mirko|
   |  Gstaad (250 pts)             |   Domenico (2)   |Diana (1)|Domenico|
   |  Washington (500 pts)              |   Daniele (5)   |Francesco (2)|Diana|
-  | Canada (1000 pts)           |   Mattia (4)   ||Gaetano|
+  | Canada (1000 pts)           |   Mattia (4)   |Gaetano (5)|Gaetano|
   |  Cincinnati (1000 pts)         |   Gaetano (6)   ||Daniele|
   |  US Open (2000 pts)           |   Gaetano (7)   ||Francesco|
   |  Pechino (500 pts)         |   Gaetano (8)   ||Mattia|
