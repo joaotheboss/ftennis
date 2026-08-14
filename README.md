@@ -14,7 +14,7 @@ STAGIONE 2026
     | Partecipante            | Periodo 1       | Periodo 2      | Periodo 3      | Periodo 4      |
   |-----------------------|-----------------|-----------------|-----------------|-----------------|
  |Gaetano  |Tien|Machac|Berrettini J.|Draper|
-|Daniele  |Norrie|King|Humbert|nakashima| 
+|Daniele  |Norrie|King|Humbert|Nakashima| 
 |Francesco  |Rinderknech|Baez|Berrettini M.|Berrettini M.| 
  |Mattia  |Fonseca|Fonseca|Mensik|Fonseca| 
 |Mirko  |Tsitsipas|Etcheverry|Arnaldi|Arnaldi| 
